@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alipompita
-- 👀 I’m interested in Web and mobile development
+- 👀 I’m interested in data visualization, Web, desktop and mobile application development
 - 📫 You can reach me emailing: alipompita@gmail.com
 
 <!---
